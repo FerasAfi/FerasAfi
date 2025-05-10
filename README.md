@@ -9,35 +9,43 @@
   <img src="https://img.shields.io/badge/Open%20To-Freelance%20Work-FF9800?style=for-the-badge&logo=upwork" />
 </p>
 
+#
+
+
+<div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
+  <div>
+    <h3>I love building stunning websites, scalable mobile applications, and integrating AI to create smarter, more impactful user experiences.</h3>
+  </br>
+    <p>🎓 <strong>Software Engineering Student</strong> @ Polytek Sousse</p>
+    <p>💻 <strong>Freelance Full-Stack Developer</strong></p>
+  
+  
+  🧠 Currently Learning: Machine learning, generative AI, MERN Stack
+   
+
+  🚧 Actively Working On: Micro Saas product 
+
+
+  </div>
+
+  </br>
+  <div style="height=20px">
+  </div>
+  <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="Developer GIF" height="180px"/>
+</div>
+
+
+
+
+
+
+
+
 ---
 
-🎓 **Software Engineering Student** at Polytek Sousse (2024–2027)  
-💻 **Freelance Full-Stack Developer** | Passionate about building impactful web & mobile apps
-### 🧠 Currently Learning:
-- AI Integration with Python 🧠
-- Building a full SaaS platform 💻
+<h1 align="center">🛠 Languages and Tools 🛠</h1>  
+</br>
 
-### 🚧 Actively Working On:
-- Donation App (React Native + Supabase) ❤️
-- Social Media Platform (Next.js + Django) 🌐
-
-
-## 🚀 About Me
-
-- 🔥 I love creating **websites, mobile apps, and AI-powered tools**
-- 💡 Constantly learning new technologies and pushing creative boundaries
-- 🌍 Collaborated with people worldwide on freelance and open-source projects
-- 🎯 Focused on **clean code, great UX, and scalable architecture**
-
----
-
-## 🛠 Tech Stack
-
-**Languages:** Python, JavaScript, PHP, SQL, PL/SQL  
-**Frontend:** React, React Native, Next.js, HTML, CSS  
-**Backend:** Django, REST API, Supabase, Firebase  
-**Tools:** Git, GitHub, Firebase, Agile, Authentication Systems  
-**Other:** Video editing (Premiere Pro, DaVinci Resolve), AI integration (Gemini AI)
 <div align="center">
 
   [![My Skills](https://skillicons.dev/icons?i=python,c,react,nextjs,django,js,ts,php,html,css&theme=dark)](https://skillicons.dev)  
@@ -45,24 +53,15 @@
 
 </div>
 
----
-
 
 ---
 
-## 📈 GitHub Stats
-
-![Feras' GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
----
-
-## 📫 Let’s Connect!
+<h1 align="center">📫 Let’s Connect! 📫</h1>  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ferasafi/)  
 - 🌐 [Portfolio](https://ferasafi.com/)
 - 📩 Reach me at: contact@ferasafi.com
 
----
+#
 
 ## *Let’s build something amazing together!*
