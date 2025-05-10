@@ -58,9 +58,13 @@
 
 <h1 align="center">📫 Let’s Connect! 📫</h1>  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ferasafi/)  
-- 🌐 [Portfolio](https://ferasafi.com/)
-- 📩 Reach me at: contact@ferasafi.com
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/ferasafi/" target="_blank" style="padding: 5px 15px; border-radius: 50%; border: 2px solid #000; text-decoration: none;">💼 LinkedIn</a>
+  <div style="width: 10px; height: 10px; background-color: #000; border-radius: 50%;">⚫</div>
+  <a href="https://ferasafi.com/" target="_blank" style="padding: 5px 15px; border-radius: 50%; border: 2px solid #000; text-decoration: none;">🌐 Portfolio</a>
+  <div style="width: 10px; height: 10px; background-color: #000; border-radius: 50%;">⚫</div>
+  <a href="mailto:contact@ferasafi.com" style="padding: 5px 15px; border-radius: 50%; border: 2px solid #000; text-decoration: none;">📩 contact@ferasafi.com</a>
+</div>
 
 #
 
