@@ -13,8 +13,8 @@
 
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
-  <div>
-    <h3>I love building stunning websites, scalable mobile applications, and integrating AI to create smarter, more impactful user experiences.</h3>
+  <div >
+    <h3>I love building stunning 3D websites, scalable mobile applications, and integrating AI to create smarter, more impactful user experiences.</h3>
   </br>
     <p>🎓 <strong>Software Engineering Student</strong> @ Polytek Sousse</p>
     <p>💻 <strong>Freelance Full-Stack Developer</strong></p>
@@ -29,19 +29,16 @@
   </div>
 
   </br>
-  <div style="height=20px">
-  </div>
+
   <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" alt="Developer GIF" height="180px"/>
 </div>
 
 
 
+</br>
+</br>
 
 
-
-
-
----
 
 <h1 align="center">🛠 Languages and Tools 🛠</h1>  
 </br>
@@ -54,7 +51,10 @@
 </div>
 
 
----
+</br>
+</br>
+
+
 
 <h1 align="center">📫 Let’s Connect! 📫</h1>  
 
@@ -66,6 +66,6 @@
   <a href="mailto:contact@ferasafi.com" style="padding: 5px 15px; border-radius: 50%; border: 2px solid #000; text-decoration: none;">📩 contact@ferasafi.com</a>
 </div>
 
-#
 
-## *Let’s build something amazing together!*
+<h1 align="center"><strong>Let’s build something amazing together!</strong></h1>  
+
