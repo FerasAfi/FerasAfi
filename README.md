@@ -13,20 +13,16 @@
 
 
 <div align="center" style="display: flex; flex-direction: row; align-items: center; justify-content: center; gap: 20px;">
-  <div >
-    <h3>I love building stunning 3D websites, scalable mobile applications, and integrating AI to create smarter, more impactful user experiences.</h3>
-  </br>
-    <p>🎓 <strong>Software Engineering Student</strong> @ Polytek Sousse</p>
-    <p>💻 <strong>Freelance Full-Stack Developer</strong></p>
-  
-  
-  🧠 Currently Learning: Machine learning, generative AI, MERN Stack
-   
-
-  🚧 Actively Working On: Micro Saas product 
+<div>
+    <h3>AI & Data Science student creating intelligent solutions and immersive websites with interactive animations to deliver smarter, engaging user experiences.</h3>
+    <br>
+    <p>🎓 <strong>AI & Data Science Student</strong> @ EPI Digital School</p>
+    <p>💻 <strong>Freelance Full-Stack Developer</p>
+    <p>🧠 Currently Learning: Machine Learning, Deep Learning, NLP, Generative AI</p>
+    <p>🚧 Actively Working On: Micro SaaS Product</p>
+</div>
 
 
-  </div>
 
   </br>
 
